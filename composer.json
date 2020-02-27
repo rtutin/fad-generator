@@ -1,0 +1,12 @@
+{
+    "require": {
+        "bitwasp/bitcoin": "^1.0",
+        "imagine/imagine": "^1.2"
+    },
+    "autoload": {
+        "psr-4": {"Acme\\": "src/"}
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}
